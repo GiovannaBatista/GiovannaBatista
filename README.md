@@ -1,4 +1,4 @@
-## Oiii eu sou a Giovanna, estudante de Análise e Desenvolvimento de Sistemas.
+## Olá, eu sou a Giovanna.
 
 
 <div style="display: inline_block"><br>
